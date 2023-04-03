@@ -11,3 +11,15 @@
  Lawrence Takaendesa
 
  Date:- 28/03/23
+
+ ---------------------------------------------------------------------------------------------
+ MOBILE APP
+ cd into folder named mobile
+ type npm install
+ type npm start
+ -----------------------------------------------------------------------------------------------
+
+ SERVER / BACKEND
+cd into folder named server
+type npm install
+type npm start
